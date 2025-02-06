@@ -17,4 +17,4 @@ export function generateRandomCode(): string {
 
 export function isValidRedirectUri(uri: string): boolean {
     return uri === "http://localhost:8081/process";
-}
+} 
