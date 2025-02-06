@@ -11,7 +11,9 @@ This is a **TypeScript-based OAuth 2.0 API** implementing **Authorization Code G
 ## Installation
 
 npm install
+
 npm start
+
 The API will start at http://localhost:8080
 
 ## Clone the Repository
