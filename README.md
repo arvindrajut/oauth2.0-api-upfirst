@@ -14,5 +14,5 @@ npm install
 npm start
 
 The API will start at http://localhost:8080
-### Clone the Repository**
+### Clone the Repository
 git clone https://github.com/arvindrajut/oauth2.0-api-upfirst.git
